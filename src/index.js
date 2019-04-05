@@ -9,8 +9,6 @@ addBtn.addEventListener('click', () => {
   addToy = !addToy
   if (addToy) {
     toyForm.style.display = 'block'
-    // submit listener here
-    //add event for the button inside toyform
   } else {
     toyForm.style.display = 'none'
   }
