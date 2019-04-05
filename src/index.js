@@ -93,7 +93,7 @@ function addCard(toy) {
           Accept: "application/json"
         },
         body: JSON.stringify({
-          likes: parseInt(toy.likes) - 1
+          likes: parseInt(toy.likes)
         })
       });
     }

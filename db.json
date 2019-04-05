@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 6
+      "likes": 13
     },
     {
       "id": 3,
@@ -51,7 +51,7 @@
     {
       "name": "Bobby",
       "image": "https://pbs.twimg.com/profile_images/682658663421509632/Mg87UBq__400x400.jpg",
-      "likes": 1,
+      "likes": 0,
       "id": 9
     },
     {
