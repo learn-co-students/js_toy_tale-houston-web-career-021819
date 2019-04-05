@@ -1,5 +1,6 @@
 function createToyCard(toy){
   const toyDiv = document.createElement('div')
+  toyDiv.className = "card"
 
   const nameHeader = document.createElement('h2')
   nameHeader.textContent = toy.name
