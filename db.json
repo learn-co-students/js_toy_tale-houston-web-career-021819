@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 10
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 5
     },
     {
       "id": 4,
@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 2
+    },
+    {
+      "name": "Goofy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61yuH4rRK%2BL._SX425_.jpg",
+      "likes": 4,
+      "id": 9
+    },
+    {
+      "name": "Chota Bheem",
+      "image": "http://www.prometheusip.com/blog/wp-content/uploads/2016/01/chota-bheem.jpg",
+      "likes": 5,
+      "id": 10
+    },
+    {
+      "name": "Goofy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61yuH4rRK%2BL._SX425_.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
