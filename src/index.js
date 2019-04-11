@@ -64,7 +64,9 @@ function add_toy(){
       }).then(res=> res.json())
         .then(function(toy){
          
-          toyCollection.append(toy);
+          // toyCollection.append(toy);
+          // WHEN I HAD THE ABOVE LINE, IT ADDED THE TOY AS WELL I HAD [object Object] on top of the newtoy which was created successfully
+          //when I commented that one out, it had gone.
           //toys.push(toy);
           //the post method is enough for that.So commenting out above line
           display_toy(toy);
